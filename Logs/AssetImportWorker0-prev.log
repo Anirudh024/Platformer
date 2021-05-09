@@ -1,0 +1,873 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.7f1 (dd97f2c94397) revision 14522354'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home Single Language; OS build 19042.928; Version 2009; 64bit' Language: 'en' Physical Memory: 8060 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Users\aniru\OneDrive\Documents\Unity Projects\2020.3.7f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/aniru/OneDrive/Documents/Unity Projects/Platform-Game-main
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+60272
+Successfully changed project path to: C:/Users/aniru/OneDrive/Documents/Unity Projects/Platform-Game-main
+C:/Users/aniru/OneDrive/Documents/Unity Projects/Platform-Game-main
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 123.79 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.7f1 (dd97f2c94397)
+[Subsystems] Discovering subsystems at path C:/Users/aniru/OneDrive/Documents/Unity Projects/2020.3.7f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/aniru/OneDrive/Documents/Unity Projects/Platform-Game-main/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 940MX (ID=0x179c)
+    Vendor:   
+    VRAM:     2010 MB
+    Driver:   27.21.14.6627
+Initialize mono
+Mono path[0] = 'C:/Users/aniru/OneDrive/Documents/Unity Projects/2020.3.7f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Users/aniru/OneDrive/Documents/Unity Projects/2020.3.7f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Users/aniru/OneDrive/Documents/Unity Projects/2020.3.7f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56368
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Users/aniru/OneDrive/Documents/Unity Projects/2020.3.7f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Users/aniru/OneDrive/Documents/Unity Projects/2020.3.7f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.005448 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 109.72 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.968 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.002279 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 119.69 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.801 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.70 seconds
+Refreshing native plugins compatible for Editor in 1.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1826 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.3 MB.
+System memory in use after: 87.3 MB.
+
+Unloading 19 unused Assets to reduce memory usage. Loaded Objects now: 2273.
+Total: 7.649400 ms (FindLiveObjects: 0.374300 ms CreateObjectMapping: 0.178200 ms MarkObjects: 6.960600 ms  DeleteObjects: 0.133200 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Gold.asset
+  artifactKey: Guid(c641654e205169f4d86d0e8dd231934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Gold.asset using Guid(c641654e205169f4d86d0e8dd231934f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '35e669f3ee0cdd3c7d62972a86786c1e') in 0.114641 seconds
+  Import took 0.120386 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 111.819213 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(80c0bf08e91848e47a9ffb3d3d91c4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(80c0bf08e91848e47a9ffb3d3d91c4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '217928fa074c18c0264ad734a9298387') in 0.002765 seconds
+  Import took 0.007635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.127234 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(80c0bf08e91848e47a9ffb3d3d91c4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(80c0bf08e91848e47a9ffb3d3d91c4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '217928fa074c18c0264ad734a9298387') in 0.003739 seconds
+  Import took 0.008277 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.315302 seconds.
+  path: Assets/Scenes/game.unity
+  artifactKey: Guid(9dcdd9528cc7b7948818c783c8694567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/game.unity using Guid(9dcdd9528cc7b7948818c783c8694567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a5d2e71ac0ff7a9a751216eae2e5b7a') in 0.009450 seconds
+  Import took 0.019150 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.022584 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Jump/1x.png
+  artifactKey: Guid(f98aa3d998533f2479a54460b4d5a2d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Jump/1x.png using Guid(f98aa3d998533f2479a54460b4d5a2d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44e34bf93ef948303f9b3ec09f11ac6e') in 0.599034 seconds
+  Import took 0.604712 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000428 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Jump/2x.png
+  artifactKey: Guid(5d2d7f4ab1e201048be99e1dc5fc3488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Jump/2x.png using Guid(5d2d7f4ab1e201048be99e1dc5fc3488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '432a42ac6bef7196ddd593efb0ded898') in 0.016047 seconds
+  Import took 0.019920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.689353 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/Blink/1x.png
+  artifactKey: Guid(7271c00af7c561f4da251fcfe62912d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/Blink/1x.png using Guid(7271c00af7c561f4da251fcfe62912d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '61b036060b32b3adef41e73dcacdd419') in 0.014359 seconds
+  Import took 0.021043 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000466 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/Blink/2x.png
+  artifactKey: Guid(445f456e4b154514898d79d71b55c05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/Blink/2x.png using Guid(445f456e4b154514898d79d71b55c05f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a041e81078fd9eeaef7e3b6d3dbafd2') in 0.017743 seconds
+  Import took 0.022792 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.956407 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Run/1x.png
+  artifactKey: Guid(a407a3b3fefdc4b4595de46072f1ba58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Run/1x.png using Guid(a407a3b3fefdc4b4595de46072f1ba58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '627b3b6473adb84ef57045ae2ee892f3') in 0.015040 seconds
+  Import took 0.019890 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000423 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Run/2x.png
+  artifactKey: Guid(2b22e58cf7fbd7946b874f61d6cbbebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Run/2x.png using Guid(2b22e58cf7fbd7946b874f61d6cbbebc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e6fb33ed5c46bb09d4da17322e9ae9a') in 0.015958 seconds
+  Import took 0.020177 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.726845 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x
+  artifactKey: Guid(bd3f7526b8b1ed741a7bd39458b5cfae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x using Guid(bd3f7526b8b1ed741a7bd39458b5cfae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87177b0449da0e80b503a1c977fe65c1') in 0.003673 seconds
+  Import took 0.012632 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.725444 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x
+  artifactKey: Guid(f962b1c1ea1d565458b2dfe612688c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x using Guid(f962b1c1ea1d565458b2dfe612688c53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2131705e2f3845378ba59d0ba87cf35e') in 0.003329 seconds
+  Import took 0.009735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030988 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/Body.png
+  artifactKey: Guid(0a6fbfb8eda4e574d9f147b94d2acc68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/Body.png using Guid(0a6fbfb8eda4e574d9f147b94d2acc68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa7c78e2ab4c6bb54597ee7c78dcdcad') in 0.025866 seconds
+  Import took 0.032587 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000594 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/RightHand&Arm.png
+  artifactKey: Guid(d7d5c862e10b2e7499411077faf065a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/RightHand&Arm.png using Guid(d7d5c862e10b2e7499411077faf065a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd499043ac191d96939535f12ce8f21f5') in 0.017168 seconds
+  Import took 0.022674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/LeftHand&Arm.png
+  artifactKey: Guid(06a078d21287a7940979bd11e1ad823f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/LeftHand&Arm.png using Guid(06a078d21287a7940979bd11e1ad823f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '507126851f4a9d7602404b5ccfa0854e') in 0.303871 seconds
+  Import took 0.308955 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/Eye.png
+  artifactKey: Guid(7daf562beaee76348a9d950a1e6e600e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/Eye.png using Guid(7daf562beaee76348a9d950a1e6e600e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d95b65ec2870f9959b9e7cac9d26488') in 0.011429 seconds
+  Import took 0.015260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/Foot.png
+  artifactKey: Guid(f6171bfe42e3a0f46a67151cf81c35d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/2x/Foot.png using Guid(f6171bfe42e3a0f46a67151cf81c35d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0706f4cf5e31463fc3f88495188c27e3') in 0.054567 seconds
+  Import took 0.060346 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004403 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.859 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.67 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.5 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2295.
+Total: 6.459700 ms (FindLiveObjects: 0.710600 ms CreateObjectMapping: 0.287200 ms MarkObjects: 5.372100 ms  DeleteObjects: 0.087800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002368 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.997 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.04 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2299.
+Total: 2.792400 ms (FindLiveObjects: 0.351000 ms CreateObjectMapping: 0.146900 ms MarkObjects: 2.261800 ms  DeleteObjects: 0.031000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002510 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.89 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.902 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.94 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2303.
+Total: 3.422400 ms (FindLiveObjects: 0.411700 ms CreateObjectMapping: 0.126700 ms MarkObjects: 2.842800 ms  DeleteObjects: 0.039300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002482 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.88 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.864 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.7 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2307.
+Total: 3.585000 ms (FindLiveObjects: 1.244300 ms CreateObjectMapping: 0.139200 ms MarkObjects: 2.176100 ms  DeleteObjects: 0.023600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002770 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.975 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.96 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2311.
+Total: 3.893600 ms (FindLiveObjects: 0.411800 ms CreateObjectMapping: 0.168000 ms MarkObjects: 3.267400 ms  DeleteObjects: 0.043800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001636 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.584 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 2.40 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.6 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2315.
+Total: 3.258900 ms (FindLiveObjects: 0.478700 ms CreateObjectMapping: 0.119100 ms MarkObjects: 2.636600 ms  DeleteObjects: 0.022400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 447.645749 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/1x.png
+  artifactKey: Guid(c483493eb3ec0f143b5d78ad823ac661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/1x.png using Guid(c483493eb3ec0f143b5d78ad823ac661) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd71398c9082334afdb3c58f758e5e058') in 0.070194 seconds
+  Import took 0.075013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000480 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/2x.png
+  artifactKey: Guid(6bd1c00f5f6ecc746b6e2277f8a7d292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/2x.png using Guid(6bd1c00f5f6ecc746b6e2277f8a7d292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db13adaa3c98cbcaf7725c1182cf0855') in 0.014155 seconds
+  Import took 0.021191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.802253 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/Blink
+  artifactKey: Guid(98c566e663ee788429ae843b64df36ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Animation ( Update 1.8 )/Idle/Blink using Guid(98c566e663ee788429ae843b64df36ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '294303d1e628fe59ff9cc932dfe7bc89') in 0.004177 seconds
+  Import took 0.011090 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 314.249235 seconds.
+  path: Assets/Scripts/MainMenu.cs
+  artifactKey: Guid(66821cfc969bff54abfbcf46147f1b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/MainMenu.cs using Guid(66821cfc969bff54abfbcf46147f1b31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02a73fceaef3753d915035f3c570e3eb') in 0.015664 seconds
+  Import took 0.029061 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002720 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.564 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.87 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2320.
+Total: 2.642700 ms (FindLiveObjects: 0.253100 ms CreateObjectMapping: 0.088500 ms MarkObjects: 2.273300 ms  DeleteObjects: 0.026300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002580 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.13 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.504 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2324.
+Total: 3.318600 ms (FindLiveObjects: 0.507900 ms CreateObjectMapping: 0.136200 ms MarkObjects: 2.630500 ms  DeleteObjects: 0.037600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 381.475807 seconds.
+  path: Assets/Scenes/MainMenu.unity
+  artifactKey: Guid(bf2c681a09d9a9d4292df9aa8d3e6d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/MainMenu.unity using Guid(bf2c681a09d9a9d4292df9aa8d3e6d4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f35c0b163d8d678e45c6be054735af17') in 0.021248 seconds
+  Import took 0.027214 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002473 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.496 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.91 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 88.7 MB.
+System memory in use after: 88.8 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2328.
+Total: 3.315200 ms (FindLiveObjects: 0.447800 ms CreateObjectMapping: 0.213100 ms MarkObjects: 2.613500 ms  DeleteObjects: 0.039100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 139.338761 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(e657e2af3fb595d47b1053a663247bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(e657e2af3fb595d47b1053a663247bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1b35146ab807b3451d439a9feb9129') in 0.031475 seconds
+  Import took 0.036485 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008390 seconds.
+  path: Assets/Animations
+  artifactKey: Guid(e657e2af3fb595d47b1053a663247bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations using Guid(e657e2af3fb595d47b1053a663247bdc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc1b35146ab807b3451d439a9feb9129') in 0.004159 seconds
+  Import took 0.012146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.590946 seconds.
+  path: Assets/Animations/Blink.anim
+  artifactKey: Guid(6a61195138437bf4ba427f8b8fd55386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Blink.anim using Guid(6a61195138437bf4ba427f8b8fd55386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa6b5ac32f112c7e3ac821806cd53d86') in 0.046325 seconds
+  Import took 0.058336 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 95.508687 seconds.
+  path: Assets/Scenes/game.unity
+  artifactKey: Guid(9dcdd9528cc7b7948818c783c8694567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/game.unity using Guid(9dcdd9528cc7b7948818c783c8694567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3a4cc6c11a282567b911c06bd5e655a') in 0.007767 seconds
+  Import took 0.013887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000422 seconds.
+  path: Assets/Scenes/game.unity
+  artifactKey: Guid(9dcdd9528cc7b7948818c783c8694567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/game.unity using Guid(9dcdd9528cc7b7948818c783c8694567) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3a4cc6c11a282567b911c06bd5e655a') in 0.006550 seconds
+  Import took 0.013578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.896603 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/ai/Character.ai
+  artifactKey: Guid(4538d88595448ae43ad295f301fdd97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/ai/Character.ai using Guid(4538d88595448ae43ad295f301fdd97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '292eb5ec63d4cc427e14c881e76ee384') in 0.009949 seconds
+  Import took 0.015699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002589 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/ai/Character.ai
+  artifactKey: Guid(4538d88595448ae43ad295f301fdd97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/ai/Character.ai using Guid(4538d88595448ae43ad295f301fdd97f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '292eb5ec63d4cc427e14c881e76ee384') in 0.007198 seconds
+  Import took 0.014079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.539920 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/Body.png
+  artifactKey: Guid(34d7edc209cc0a44bbd2d515e290b5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/Body.png using Guid(34d7edc209cc0a44bbd2d515e290b5dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '627f776d08b7c08dabec75d04fc277aa') in 0.075760 seconds
+  Import took 0.080776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000432 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/LeftHand&Arm.png
+  artifactKey: Guid(da0a680ffa7a35044b4b43dcd7beda07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/LeftHand&Arm.png using Guid(da0a680ffa7a35044b4b43dcd7beda07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ebddfd133d28abf2053a39c47f09f45') in 0.019303 seconds
+  Import took 0.025749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/Eye.png
+  artifactKey: Guid(fb025f51ade62854baa195bbdd5631c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/Eye.png using Guid(fb025f51ade62854baa195bbdd5631c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd60eb062f9a83cf6a41939b2a45d9b07') in 0.022261 seconds
+  Import took 0.027379 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/RightHand&Arm.png
+  artifactKey: Guid(1522717752b33424eb99ca876b572985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/RightHand&Arm.png using Guid(1522717752b33424eb99ca876b572985) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beddb8c1377102f60c23c17ad1d7b656') in 0.018093 seconds
+  Import took 0.024440 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/Foot.png
+  artifactKey: Guid(f0f2d2ccf421cf04987dd480807bc932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/1x/Foot.png using Guid(f0f2d2ccf421cf04987dd480807bc932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddf675570b59b14c9be2e69561dd82d8') in 0.082451 seconds
+  Import took 0.087652 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.028986 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Body.png
+  artifactKey: Guid(ea3ababbf963ba74d857824be9c13cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Body.png using Guid(ea3ababbf963ba74d857824be9c13cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90ea8d9826604e55e343863d2a101c68') in 0.021867 seconds
+  Import took 0.026152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000324 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightEye.png
+  artifactKey: Guid(febf6b47123a14f4180985e86a8681be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightEye.png using Guid(febf6b47123a14f4180985e86a8681be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36c041f006843c0ee0d0d0c7da02f129') in 0.032104 seconds
+  Import took 0.045753 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000766 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/LeftEye.png
+  artifactKey: Guid(b7d48df2dd5700641a5a1ada209269c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/LeftEye.png using Guid(b7d48df2dd5700641a5a1ada209269c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ac7018678673b7ecebeeece18bfa203') in 0.036236 seconds
+  Import took 0.044760 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/LeftFoot.png
+  artifactKey: Guid(21f1e42e8ee4400409a53c55671bd27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/LeftFoot.png using Guid(21f1e42e8ee4400409a53c55671bd27f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3035204e80e27791227d681f4b4e24dd') in 0.043262 seconds
+  Import took 0.053945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/LeftHand.png
+  artifactKey: Guid(f74f79856fafd60499953268d6762796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/LeftHand.png using Guid(f74f79856fafd60499953268d6762796) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa69b941c3d60d7b3d11a25aed7c038e') in 0.031274 seconds
+  Import took 0.038342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000379 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightFoot.png
+  artifactKey: Guid(2dea15e248a6b794aa38cc1d5cc5c69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightFoot.png using Guid(2dea15e248a6b794aa38cc1d5cc5c69f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47d568cbe4062008d0f094249f3b8e9c') in 0.017211 seconds
+  Import took 0.023920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001083 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightArm.png
+  artifactKey: Guid(d9186e1c6e7e7af42814ff3d20ff83a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightArm.png using Guid(d9186e1c6e7e7af42814ff3d20ff83a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7da2e95c2c34e62feb7c2fb5affc57a0') in 0.018195 seconds
+  Import took 0.027186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000688 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/LeftArm.png
+  artifactKey: Guid(a9db2a481a2944f429524f61095bcbaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/LeftArm.png using Guid(a9db2a481a2944f429524f61095bcbaf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '075cb9d4deb3b93f654fd039aff41f42') in 0.032784 seconds
+  Import took 0.046063 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000651 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightHand.png
+  artifactKey: Guid(55d05a90cbf90294d8bdc9298bbc97b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/RightHand.png using Guid(55d05a90cbf90294d8bdc9298bbc97b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c51807b89114fc51a33d6193b5fc7cde') in 0.017567 seconds
+  Import took 0.024716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.961584 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh
+  artifactKey: Guid(a23ce32eb74701d4db51f42e2661b75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh using Guid(a23ce32eb74701d4db51f42e2661b75f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebc69e66fdecc1069c4d24e4b8645712') in 0.006899 seconds
+  Import took 0.012030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090608 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/Body.asset
+  artifactKey: Guid(ee067ee8670fa3e47829b0d74eec99c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/Body.asset using Guid(ee067ee8670fa3e47829b0d74eec99c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '056a985c0f16d364c5b6d57082f473f2') in 0.005959 seconds
+  Import took 0.011260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000453 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/LeftEye.asset
+  artifactKey: Guid(3a5079f65a64a294bb858ad4f0c42481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/LeftEye.asset using Guid(3a5079f65a64a294bb858ad4f0c42481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f56a52b1e22e3f0cb0ff2adcf9c95589') in 0.005037 seconds
+  Import took 0.009089 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/RightArm.asset
+  artifactKey: Guid(16a9e1c44e64817489286dc78e4df8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/RightArm.asset using Guid(16a9e1c44e64817489286dc78e4df8c3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82fc1d6b81c76f88a66eaf77b98fd828') in 0.008294 seconds
+  Import took 0.020102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000465 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/RightFoot.asset
+  artifactKey: Guid(5ff121e36eddf704f85167abbb32b4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/RightFoot.asset using Guid(5ff121e36eddf704f85167abbb32b4be) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e70b5dade71a7d9fd5cde647dd6030e3') in 0.009122 seconds
+  Import took 0.017343 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000501 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/LeftArm.asset
+  artifactKey: Guid(158eb4fe651be6245a10e399346cf547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/LeftArm.asset using Guid(158eb4fe651be6245a10e399346cf547) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96c181d173888b712e2ebf1c04730f88') in 0.009253 seconds
+  Import took 0.015958 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/LeftFoot.asset
+  artifactKey: Guid(a2cc7935042f38f4cb3af7a6559502c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/LeftFoot.asset using Guid(a2cc7935042f38f4cb3af7a6559502c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56de4245d4b8b2719cbd3a5ad7b61c1e') in 0.015041 seconds
+  Import took 0.024460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000435 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/RightEye.asset
+  artifactKey: Guid(17c571d91f206054c828dd3851b48b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/RightEye.asset using Guid(17c571d91f206054c828dd3851b48b3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36e1cb7695afde17401ca2b5fd4bc2b4') in 0.008889 seconds
+  Import took 0.016843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/LeftHand.asset
+  artifactKey: Guid(391b199f67121d54b93c5ffe76d01220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/LeftHand.asset using Guid(391b199f67121d54b93c5ffe76d01220) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9defb50597b6c72974f9efe55c4fb8f5') in 0.006543 seconds
+  Import took 0.012353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000540 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/RightHand.asset
+  artifactKey: Guid(b6aa305d74e359f4fb278d0bf4e540f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x/Sprite Mesh/RightHand.asset using Guid(b6aa305d74e359f4fb278d0bf4e540f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '249b83be62a95826a0b84837f6f70c8e') in 0.006489 seconds
+  Import took 0.013799 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.532563 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/eps/Character.eps
+  artifactKey: Guid(2470a02fdfb11d04e9bca27634e43084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/eps/Character.eps using Guid(2470a02fdfb11d04e9bca27634e43084) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '908ca00b9fb622640a987d5e23980561') in 0.009850 seconds
+  Import took 0.016162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.566137 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source
+  artifactKey: Guid(e2fcd15e38045f146ad298394c585b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source using Guid(e2fcd15e38045f146ad298394c585b29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '974590ad6fcd6f8f6535fb1683a9a430') in 0.004572 seconds
+  Import took 0.013300 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.393321 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/ai
+  artifactKey: Guid(bbeb8842605cefa4380cd8cb7de9c7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/ai using Guid(bbeb8842605cefa4380cd8cb7de9c7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec1490822d83ae8ced07beba345b3801') in 0.006857 seconds
+  Import took 0.013839 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001133 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/ai
+  artifactKey: Guid(bbeb8842605cefa4380cd8cb7de9c7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/ai using Guid(bbeb8842605cefa4380cd8cb7de9c7e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec1490822d83ae8ced07beba345b3801') in 0.008523 seconds
+  Import took 0.016755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.628899 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x
+  artifactKey: Guid(f30480e68e7fc8d4f856e4c95369b9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png/4x using Guid(f30480e68e7fc8d4f856e4c95369b9dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae8823c46c753a4cd36f571183514719') in 0.004858 seconds
+  Import took 0.010693 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 352.628981 seconds.
+  path: Assets/Animations/Move.anim
+  artifactKey: Guid(d0b80c75aa9eb194687646a04dc231f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Move.anim using Guid(d0b80c75aa9eb194687646a04dc231f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a177286477a0564d01c39ef34305d8') in 0.011499 seconds
+  Import took 0.019722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006566 seconds.
+  path: Assets/Animations/Move.anim
+  artifactKey: Guid(d0b80c75aa9eb194687646a04dc231f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Move.anim using Guid(d0b80c75aa9eb194687646a04dc231f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84a177286477a0564d01c39ef34305d8') in 0.007127 seconds
+  Import took 0.013012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 134.303022 seconds.
+  path: Assets/Animations/Player.controller
+  artifactKey: Guid(9dc83ffb86e38c14cb76ad7018007f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Player.controller using Guid(9dc83ffb86e38c14cb76ad7018007f81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9f0b2cc75ea9e6fcc853de8586b9f63b') in 0.029881 seconds
+  Import took 0.036022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.131552 seconds.
+  path: Assets/Animations/Idle.anim
+  artifactKey: Guid(cc34628ae74da944d9959cf2dea5cf49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Idle.anim using Guid(cc34628ae74da944d9959cf2dea5cf49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1327c176612ffba73fbd086a708f2fe9') in 0.016846 seconds
+  Import took 0.022748 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 300.321202 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets
+  artifactKey: Guid(fca484a638c989e4d899378f52d7c168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets using Guid(fca484a638c989e4d899378f52d7c168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75861f3624983563e1b78aa4fa2e955c') in 0.008863 seconds
+  Import took 0.018088 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001025 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets
+  artifactKey: Guid(fca484a638c989e4d899378f52d7c168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets using Guid(fca484a638c989e4d899378f52d7c168) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75861f3624983563e1b78aa4fa2e955c') in 0.004831 seconds
+  Import took 0.013776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.650036 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character
+  artifactKey: Guid(49d41ba9d76148b4c832aaf9c8625c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character using Guid(49d41ba9d76148b4c832aaf9c8625c68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f46c2ab76385177ff8952cad717781c4') in 0.008047 seconds
+  Import took 0.014608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.448200 seconds.
+  path: Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png
+  artifactKey: Guid(ba49fa5191630e8408bc327ff6801786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/BayatGames/Free Platform Game Assets/Character/Character Source/png using Guid(ba49fa5191630e8408bc327ff6801786) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bbb254755fc8959ca3722371b643f133') in 0.008163 seconds
+  Import took 0.015548 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002323 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.99 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.758 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.01 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2347.
+Total: 9.442100 ms (FindLiveObjects: 0.372100 ms CreateObjectMapping: 0.147100 ms MarkObjects: 8.830900 ms  DeleteObjects: 0.089800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001802 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.663 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2351.
+Total: 2.880900 ms (FindLiveObjects: 0.337300 ms CreateObjectMapping: 0.116400 ms MarkObjects: 2.401700 ms  DeleteObjects: 0.023800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002302 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.05 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.750 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2355.
+Total: 4.931300 ms (FindLiveObjects: 0.406100 ms CreateObjectMapping: 0.157100 ms MarkObjects: 4.335700 ms  DeleteObjects: 0.029800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.002511 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.509 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1803 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 89.0 MB.
+System memory in use after: 89.1 MB.
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 2359.
+Total: 8.613500 ms (FindLiveObjects: 0.989000 ms CreateObjectMapping: 0.379000 ms MarkObjects: 7.215600 ms  DeleteObjects: 0.027600 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
